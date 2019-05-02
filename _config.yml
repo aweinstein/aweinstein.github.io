@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alejandro Weinstein / Site Title"
+title                    : "Alejandro Weinstein"
 title_separator          : "-"
 name                     : &name "Alejandro Weinstein"
 description              : &description "Professor of Biomedical Engineering at the University of Valparaíso, Chile"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alejandro Weinstein"
   avatar           : "profile.png"
-  bio              : "Biomedical Engineering Professor"
+  bio              : "Biomedical Engineering Professor "
   location         : "Valparaíso, Chile"
-  employer         :
+  employer         : "Universidad de Valparaíso, Chile"
   pubmed           : 
   googlescholar    : "https://scholar.google.cl/citations?hl=en&user=jkHEZuoAAAAJ"
-  email            :
+  email            : "alejandro.weinstein@uv.cl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
