@@ -39,6 +39,3 @@ Wheeler, P.W., Rodriguez, J., Clare, J.C., Empringham, L., Weinstein, A., 2002. 
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
